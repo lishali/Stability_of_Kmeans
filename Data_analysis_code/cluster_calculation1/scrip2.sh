@@ -1,0 +1,1 @@
+R --no-save < script2.R
